@@ -3,7 +3,7 @@ Create Career College - UI/UX for Web design project slide deck
 
 ---
 
-##Tutor: Nhi Nguyen<br>
+##Tutor: Nhi Nguyen
 ##Submission Date: 9 Feb 2024
 
 ---
