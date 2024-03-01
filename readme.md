@@ -4,10 +4,10 @@
 
 ---
 
-##Tutor: Nhi Nguyen
-##Submission Date: 9 Feb 2024
+## Tutor: Nhi Nguyen
+## Submission Date: 9 Feb 2024
 
-###Technologies:
+### Technologies:
 - Figma
 - Current State, Future State, Target Audiance, How Might We, Constraints
 - Interviews, Personas, User Journey Map
