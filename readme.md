@@ -1,12 +1,13 @@
 # CCC - UIUXSlideDeck
-Create Career College - UI/UX for Web design project slide deck
+
+<p>Create Career College - UI/UX for Web design project slide deck</P>
 
 ---
 
 ##Tutor: Nhi Nguyen
 ##Submission Date: 9 Feb 2024
 
-Technologies:
+##Technologies:
 - Figma
 - Current State, Future State, Target Audiance, How Might We, Constraints
 - Interviews, Personas, User Journey Map
@@ -25,4 +26,4 @@ Technologies:
 ![Overview](/slides/4%20Overview.png)
 ![Discovery](/slides/5%20Discovery.png)
 
-Feel free to browse rest of the slides inside the slides folder.
+<p>Feel free to browse rest of the slides inside the slides folder.</p>
