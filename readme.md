@@ -7,7 +7,7 @@
 ##Tutor: Nhi Nguyen
 ##Submission Date: 9 Feb 2024
 
-##Technologies:
+###Technologies:
 - Figma
 - Current State, Future State, Target Audiance, How Might We, Constraints
 - Interviews, Personas, User Journey Map
@@ -21,9 +21,13 @@
 
 ---
 ![Cover](/slides/1%20Deck%20Cover%20Page.png)
+
 ![Introduction](/slides/2%20Introduction.png)
+
 ![CaseStudy](/slides/3%20Case%20Study%20Cover.png)
+
 ![Overview](/slides/4%20Overview.png)
+
 ![Discovery](/slides/5%20Discovery.png)
 
 <p>Feel free to browse rest of the slides inside the slides folder.</p>
